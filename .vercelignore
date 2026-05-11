@@ -1,0 +1,5 @@
+disease_dataset_1080.csv
+train_model.py
+*.pyc
+__pycache__/
+.git/
